@@ -4,5 +4,5 @@
 - 💞️ Estou buscando colocar em prática meus conhecimentos através de projetos práticos!
 
 <div align="center">
-  ![Snake animation](https://github.com/leticiapaoleschi/leticiapaoleschi/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GabrielFerreira98/GabrielFerreira98/blob/output/github-contribution-grid-snake.svg)
 </div>
