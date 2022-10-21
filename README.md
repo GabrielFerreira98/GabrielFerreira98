@@ -3,6 +3,6 @@
 - 🌱 Atualmente estou estudando NodeJS na trilhe do Ignite da [Rocketseat](https://lp.rocketseat.com.br/ignite?&&_gl=1*uim5gx*_ga*Mzk4MTg2Nzg0LjE2NTk5MjA1ODI.*_ga_74RKNGM8RL*MTY2NjMwOTk2Ny41LjAuMTY2NjMwOTk2Ny42MC4wLjA.)
 - 💞️ Estou buscando colocar em prática meus conhecimentos através de projetos práticos!
 
-<div align="center">
+<div>
   ![Snake animation](https://github.com/GabrielFerreira98/GabrielFerreira98/blob/output/github-contribution-grid-snake.svg)
 </div>
